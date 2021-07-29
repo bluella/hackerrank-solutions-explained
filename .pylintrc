@@ -62,7 +62,7 @@ confidence=
 # --disable=W".
 disable=print-statement,
         invalid-name,
-       
+        unused-import,
 
 
 

@@ -33,6 +33,7 @@ tags
 *.eggs/
 .installed.cfg
 *.egg-info
+poetry.toml
 
 # Unittest and coverage
 htmlcov/*
