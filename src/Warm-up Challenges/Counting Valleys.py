@@ -13,7 +13,7 @@ a unit change in altitude. We define the following terms:
     starting with a step down from sea level and ending with a step up to sea level.
 
 Given the sequence of up and down steps during a hike,
-find and print the number of valleys walked through. ."""
+find and print the number of valleys walked through."""
 
 import math
 import os
