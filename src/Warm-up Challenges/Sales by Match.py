@@ -44,14 +44,9 @@ def sockMerchant(number_of_socks, sock_arr):
     return sock_pair_count
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    n = int(input().strip())
-
-    ar = list(map(int, input().rstrip().split()))
-    print(ar)
+    n = 4
+    ar = [1, 2, 1, 3]
 
     result = sockMerchant(n, ar)
-
-    fptr.write(str(result) + '\n')
-    fptr.close()
+    print(result)
+    
