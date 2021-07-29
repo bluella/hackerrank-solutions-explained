@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""There is a large pile of socks that must be paired by color.
+"""
+https://www.hackerrank.com/challenges/sock-merchant
+There is a large pile of socks that must be paired by color.
 Given an array of integers representing the color of each sock,
 determine how many pairs of socks with matching colors there are."""
 
@@ -53,4 +55,3 @@ if __name__ == '__main__':
 
     fptr.write(str(result) + '\n')
     fptr.close()
-    
