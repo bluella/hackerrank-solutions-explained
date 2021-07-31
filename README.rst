@@ -6,7 +6,9 @@ HackerRank Solutions Explained
 Overview
 ========
 
-Repo's folder structure is organized by task theme.
+- Repo's folder structure is organized by task theme.
+- Some Python style convensions are ignored in order to comply with HackerRank tasks' names, etc.
+
 
 Contributing
 ============
